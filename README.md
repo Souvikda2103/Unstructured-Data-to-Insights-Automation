@@ -87,9 +87,3 @@ A great example of how AI + Automation removes repetitive work and increases ope
 - **n8n Automation Workflow:** http://localhost:5678/workflow/oM9CDB3K8ZfhFuw3  
 - **Google Drive Folder:** https://drive.google.com/drive/folders/1ruDVlJULqPnki-FWJOOXOuB8UFwwS-kA  
 - **Google Sheet:** https://docs.google.com/spreadsheets/d/1F6aaQhVvg_hjTlrkoWp8dcoEqA5P2VRQfAfWPR7BblA/edit?gid=665692375#gid=665692375  
-
----
-
-#AI #Automation #Codebasics #n8n #GoogleGemini #OCR #GoogleSheets #GoogleDrive #InvoiceAutomation #WorkflowAutomation #UnstructuredData #FinTech #ProductivityTools
-
-#AI #Automation #Codebasics #n8n #GoogleGemini #OCR #GoogleSheets #GoogleDrive #InvoiceAutomation #WorkflowAutomation #UnstructuredData #FinTech #ProductivityTools
